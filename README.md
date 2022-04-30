@@ -12,4 +12,4 @@ echo "hello GitHub" #Bash
 document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascript
 ```
 ```cpp
-string &operator+(const string& A,const string& B) //cpp
+string &operator+(const string& A,const string& B) 
