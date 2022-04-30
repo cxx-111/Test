@@ -21,6 +21,6 @@ string &operator+(const string& A,const string& B) //cpp
 |  2  | herry|
 
 
-eg:
+
 `中国人 `
 `self.view.backgroundColor = [UIColor colorForHex:@"6FBF5E"];`
