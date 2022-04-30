@@ -9,7 +9,7 @@ int main(int argc,int *argv[1]) //c
 echo "hello GitHub" #Bash
 ```
 ```javascript
-document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascript
+document.getElementById("myH1").innerHTML="Welcome to my Homepage"; 
 ```
 ```cpp
 string &operator+(const string& A,const string& B) 
