@@ -24,3 +24,11 @@ string &operator+(const string& A,const string& B) //cpp
 
 `中国人 `
 `self.view.backgroundColor = [UIColor colorForHex:@"6FBF5E"];`
+
+
+eg:  “---------”左右两边的“：”决定文字的对齐方式
+| 星期        | 车次           | 时间  |
+| ------------- |:-------------:| -----:|
+| 星期一      |G1008 | 4:30 |
+|  星期二  | G1006      |  14:55 |
+|  星期三   | G1007    |   18:30 |
