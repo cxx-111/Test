@@ -15,7 +15,7 @@ document.getElementById("myH1").innerHTML="Welcome to my Homepage";  //javascrip
 string &operator+(const string& A,const string& B) //cpp
 
 
-id |name
-:---:|:---:
-1|tom
-2 |herry
+id | name
+--- | ---
+1 | tom
+2 | herry
