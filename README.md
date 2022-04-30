@@ -2,14 +2,14 @@
 ```Java
 public static void main(String[] arge){} //Java
 ```
+```c
+int main(int argc,int *argv[1]) //c
 ```
-int main(int argc,int *argv[1])
+```Bash
+echo "hello GitHub" #Bash
 ```
+```javascript
+document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascript
 ```
-echo "hello GitHub"
-```
-```
-document.getElementById("myH1").innerHTML="Welcome to my Homepage";
-```
-```
-string &operator+(const string& A,const string& B)
+```cpp
+string &operator+(const string& A,const string& B) //cpp
