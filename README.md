@@ -1,2 +1,2 @@
 # Test
-readmetest
+public statoc
