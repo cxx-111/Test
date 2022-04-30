@@ -1,2 +1,4 @@
 # Test
-`public static``
+```java
+public static void main(String[] arge){} //java
+```
