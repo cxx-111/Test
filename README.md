@@ -1,2 +1,2 @@
 # Test
-public statoc
+`public static`
