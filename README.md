@@ -20,7 +20,7 @@ string &operator+(const string& A,const string& B) //cpp
 |  1  | tom  |
 |  2  | herry|
 
-
+*强调*
 
 `中国人 `
 `self.view.backgroundColor = [UIColor colorForHex:@"6FBF5E"];`
